@@ -1,0 +1,17 @@
+.box {
+  background-color: rgb(31, 252, 110);
+  height: 200px;
+  width: 300px;
+  border-width: 3px;
+  border-style: solid;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  margin: 30px;
+}
+
+input {
+  margin-bottom: 20px;
+}
